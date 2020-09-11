@@ -5,4 +5,4 @@
 <p>This picture is of me from my sophomore year roster picture. I wrestled at 149 last year.</p>
 
 <p>If you would like to find this picture for yourself and make it your screensavor, head to UNCO wrestling roster and search my name.</p>
-<a href="bacs200-index.html">Go back to Week-2 page</a>
+<a href="bacs200-index.html/README.md">Go back to Week-2 page</a>
