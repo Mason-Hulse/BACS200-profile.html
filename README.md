@@ -6,4 +6,4 @@
 
 <p>If you would like to find this picture for yourself and make it your screensavor, head to UNCO wrestling roster and search my name.</p>
 
-<a href="https://github.com/Mason-Hulse/bacs200-index.html/edit/master/README.md">Go back to Week-2 page</a>
+<a href="https://github.com/Mason-Hulse/bacs200-index.html">Go back to Week-2 page</a>
